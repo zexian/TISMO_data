@@ -1,0 +1,5 @@
+name	synonyms
+PD1	PD-1; anti-PD1; antiPD1; anti-PD-1; anti PD1; anti PD-1; aPD1; aPD-1; Anti-PD1; AntiPD1; Anti-PD-1; Anti PD1; Anti PD-1;
+PDL1	PD-L1; anti-PDL1; antiPDL1; anti-PD-L1; anti PDL1; anti PD-L1; aPDL1; aPD-L1; Anti-PDL1; AntiPDL1; Anti-PD-L1; Anti PDL1; Anti PD-L1;
+CTLA4	CTLA-4; anti-CTL4; antiCTL4; anti-CTLA-4; anti CTLA4; anti CTLA-4; aCTLA4; aCTLA-4; Anti-CTLA4; AntiCTL4; Anti-CTLA-4; Anti CTLA4; Anti CTLA-4;
+PDL2	PD-L2; anti-PDL2; antiPDL2; anti-PD-L2; anti PDL2; anti PD-L2; aPDL2; aPD-L2; Anti-PDL2; AntiPDL2; Anti-PD-L2; Anti PDL2; Anti PD-L2;
